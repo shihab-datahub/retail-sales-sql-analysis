@@ -22,3 +22,9 @@ SQL
 Data Analysis
 Aggregation
 Business Insights
+
+## Key Insights
+
+- Laptop generates the highest revenue.
+- South region shows strong sales performance.
+- Monthly revenue increases towards later months.
