@@ -23,8 +23,22 @@ Data Analysis
 Aggregation
 Business Insights
 
+## Business Questions
+
+1. What is the total revenue generated?
+2. Which products sell the most?
+3. Which region contributes the highest revenue?
+4. How does revenue change month by month?
+
+## SQL Techniques Used
+
+- SUM()
+- GROUP BY
+- ORDER BY
+- Aggregation
+
 ## Key Insights
 
-- Laptop generates the highest revenue.
-- South region shows strong sales performance.
-- Monthly revenue increases towards later months.
+- Laptop generates the highest revenue due to higher price.
+- South region contributes the largest share of sales.
+- Revenue increases gradually in later months.
